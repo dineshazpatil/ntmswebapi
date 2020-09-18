@@ -1,6 +1,6 @@
 using System;
 
-namespace NTMSWebApi
+namespace ntmsapimysql
 {
     public class WeatherForecast
     {

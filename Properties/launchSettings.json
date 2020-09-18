@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:3423",
-      "sslPort": 44302
+      "applicationUrl": "http://localhost:48827",
+      "sslPort": 44391
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "NTMSWebApi": {
+    "ntmsapimysql": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LEQ3eNAI0R8xsm/6cLV7ysxcNp7qVYbpBWPIThGxVgUgI1/Uwz98hVpftozKdTnw9U9B7ApO2lMAfn962F8b6g==",
+  "dgSpecHash": "1v40KXhDQiHDRHwej4l2oKGmnDxP2hPIxvS3DFeuf2yxs5Vvp/meb9hAHUQ+5Pp6A6g4z6HyJm2k/v68SuerWg==",
   "success": true,
-  "projectFilePath": "/home/dinesh/NTMSWebApi/NTMSWebApi.csproj",
+  "projectFilePath": "/home/dinesh/ntmsapimysql/ntmsapimysql.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

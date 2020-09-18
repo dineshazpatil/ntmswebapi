@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dinesh/NTMSWebApi/NTMSWebApi.csproj",
-      "projectName": "NTMSWebApi",
-      "projectPath": "/home/dinesh/NTMSWebApi/NTMSWebApi.csproj",
+      "projectUniqueName": "/home/dinesh/ntmsapimysql/ntmsapimysql.csproj",
+      "projectName": "ntmsapimysql",
+      "projectPath": "/home/dinesh/ntmsapimysql/ntmsapimysql.csproj",
       "packagesPath": "/home/dinesh/.nuget/packages/",
-      "outputPath": "/home/dinesh/NTMSWebApi/obj/",
+      "outputPath": "/home/dinesh/ntmsapimysql/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dinesh/.nuget/NuGet/NuGet.Config"
